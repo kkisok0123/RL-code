@@ -1,0 +1,53 @@
+{
+  "dataset_path": "artifacts\\neural_network\\datasets\\smoke_dataset.npz",
+  "feature_names": [
+    "u",
+    "v",
+    "w",
+    "p",
+    "q",
+    "r",
+    "alpha1",
+    "alpha2",
+    "alpha3",
+    "alpha4",
+    "alpha5",
+    "alpha1_dot",
+    "alpha2_dot",
+    "alpha3_dot",
+    "alpha4_dot",
+    "alpha5_dot"
+  ],
+  "target_names": [
+    "Fx",
+    "Fy",
+    "Fz",
+    "Mx",
+    "My",
+    "Mz"
+  ],
+  "train_size": 22,
+  "val_size": 5,
+  "test_size": 5,
+  "best_val_loss": 0.195796400308609,
+  "test_metrics": {
+    "loss": 0.9560542702674866,
+    "mae_mean": 5.876990190853288,
+    "mae_per_target": {
+      "Fx": 7.337306899547921,
+      "Fy": 2.929953927443461,
+      "Fz": 20.361411567008492,
+      "Mx": 2.4656855465975256,
+      "My": 1.1415543043336391,
+      "Mz": 1.0260289001886946
+    },
+    "rmse_per_target": {
+      "Fx": 12.301500389937347,
+      "Fy": 3.5644580874595504,
+      "Fz": 24.85695698585555,
+      "Mx": 3.617301028000483,
+      "My": 1.3167777431634649,
+      "Mz": 1.19080961827895
+    }
+  }
+}

@@ -1,17 +1,17 @@
-__pycache__/
-*.py[cod]
-*.pyo
+# __pycache__/
+# *.py[cod]
+# *.pyo
 
-artifacts/
+# artifacts/
 
-build/
-*/build/
+# build/
+# */build/
 
-*.exp
-*.lib
-*.obj
+# *.exp
+# *.lib
+# *.obj
 
-*.tfevents.*
-evaluations.npz
+# *.tfevents.*
+# evaluations.npz
 
-data_saving/
+# data_saving/
