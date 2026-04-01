@@ -1,0 +1,217 @@
+﻿Diagnose log at 2026-04-01T09:26:35Z
+
+AppPath: F:\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: F:\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\kk
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-A8J75PD7
+GIT_TRACE2_PARENT_SID=2cf94d07-f679-4fb7-a166-8846f13233b7
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+LESS=
+OneDrive=C:\Users\kk\OneDrive
+CODEX_THREAD_ID=019d485b-cf30-70e2-aef3-0c530b2bf737
+EFC_31844_1592913036=1
+TMPDIR=C:\Users\kk\AppData\Local\Temp
+SESSIONNAME=Console
+TMP=C:\Users\kk\AppData\Local\Temp
+LC_CTYPE=C.UTF-8
+USERDOMAIN=LAPTOP-A8J75PD7
+PATHEXT=.BAT;.CMD;.COM;.EXE;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+PROCESSOR_REVISION=6102
+USERNAME=kk
+GIT_HTTP_PROXY=http://127.0.0.1:9
+HTTPS_PROXY=http://127.0.0.1:7897
+CARGO_NET_OFFLINE=true
+MATLAB_ROOT=C:\path\to\MATLAB
+LOCALAPPDATA=C:\Users\kk\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+__PSLockDownPolicy=0
+PIP_DISABLE_PIP_VERSION_CHECK=1
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+GIT_ALLOW_PROTOCOLS=
+HOMEDRIVE=C:
+windir=C:\WINDOWS
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=32
+PATH=F:/Git/mingw64/libexec/git-core;F:\Git\mingw64\bin;F:\Git\usr\bin;C:\Users\kk\bin;C:\Users\kk\.sbx-denybin;C:\Users\kk\.codex\tmp\arg0\codex-arg0bYYJSc;F:\Microsoft VS Code;F:\python\Scripts\;F:\python\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;F:\R2025a\runtime\win64;F:\MATLAB2025a\2025a\runtime\win64;F:\MATLAB2025a\2025a\bin;F:\matlab2\bin;F:\runtime\win64;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\Windows Kits\10\Windows Performance Toolkit\;F:\latex\texlive\2024\bin\windows;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;F:\mingw64\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Git\cmd;F:\Git\bin;F:\CMake\bin;F:\python\Scripts\;F:\python\;C:\Users\kk\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\bin;C:\Users\kk\.dotnet\tools;F:\Antigravity\bin;;c:\Users\kk\.vscode\extensions\openai.chatgpt-26.325.31654-win32-x64\bin\windows-x86_64
+VSCODE_IPC_HOOK=\\.\pipe\2364a2d9-1.113.0-main-sock
+VSCODE_CODE_CACHE_PATH=C:\Users\kk\AppData\Roaming\Code\CachedData\cfbea10c5ffb233ea9177d34726e6056e89913dc
+PIP_NO_INDEX=1
+NODE_TLS_REJECT_UNAUTHORIZED=0
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+HTTP_PROXY=http://127.0.0.1:7897
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-A8J75PD7
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+CASADI_ROOT=C:\path\to\casadi
+CODEX_SANDBOX_NETWORK_DISABLED=1
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+GIT_PAGER=more.com
+GIT_HTTPS_PROXY=http://127.0.0.1:9
+GIT_SSH_COMMAND=cmd /c exit 1
+DEBUG=release
+VSCODE_NLS_CONFIG={"userLocale":"zh-cn","osLocale":"zh-cn","resolvedLanguage":"zh-cn","defaultMessagesFile":"F:\\Microsoft VS Code\\cfbea10c5f\\resources\\app\\out\\nls.messages.json","languagePack":{"translationsConfigFile":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn\\tcf.json","messagesFile":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn\\cfbea10c5ffb233ea9177d34726e6056e89913dc\\nls.messages.json","corruptMarkerFile":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn\\corrupted.info"},"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn","_languagePackSupport":true,"_translationsConfigFile":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn\\cfbea10c5ffb233ea9177d34726e6056e89913dc","_corruptedFile":"C:\\Users\\kk\\AppData\\Roaming\\Code\\clp\\ca2f903cb9e726ed3d7fd7f74444fb8d.zh-cn\\corrupted.info"}
+SBX_NONET_ACTIVE=1
+TEMP=C:\Users\kk\AppData\Local\Temp
+ProgramW6432=C:\Program Files
+HOME=C:\Users\kk
+SystemDrive=C:
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=codex_vscode
+CommonProgramW6432=C:\Program Files\Common Files
+ALL_PROXY=http://127.0.0.1:9
+LOGONSERVER=\\LAPTOP-A8J75PD7
+VSCODE_CWD=F:\Microsoft VS Code
+GIT_EXEC_PATH=F:/Git/mingw64/libexec/git-core
+NPM_CONFIG_OFFLINE=true
+EFC_31844_344590478=1
+NO_PROXY=localhost,127.0.0.1,::1
+SystemRoot=C:\WINDOWS
+APPDATA=C:\Users\kk\AppData\Roaming
+COLORTERM=truecolor
+RUST_LOG=warn
+VSCODE_PID=8152
+PSModulePath=C:\Users\kk\OneDrive\문서\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+ELECTRON_RUN_AS_NODE=1
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_8152_RHUGKEYQAJNHGKYW
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+USERPROFILE=C:\Users\kk
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+PYCHARM_VM_OPTIONS=C:\Users\kk\AppData\Roaming\JetBrains\PyCharm2025.1\pycharm64.exe.vmoptions
+PAGER=more.com
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+OneDriveConsumer=C:\Users\kk\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\kk\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\kk\AppData\Local\Temp\9c724255b6a35e5340d181c6'... OK
+Reading from temporary file 'C:\Users\kk\AppData\Local\Temp\9c724255b6a35e5340d181c6'... OK
+Deleting temporary file 'C:\Users\kk\AppData\Local\Temp\9c724255b6a35e5340d181c6'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\kk
+UserDataDirectoryPath: C:\Users\kk\.gcm
+GetCurrentDirectory(): C:\Users\kk\OneDrive\Desktop\trajectory planning\RL code
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 接收时发生错误。 ---> System.ComponentModel.Win32Exception: 安全包中没有可用的凭证
+   在 System.Net.SSPIWrapper.AcquireCredentialsHandle(SSPIInterface SecModule, String package, CredentialUse intent, SecureCredential2 scc)
+   在 System.Net.Security.SecureChannel.AcquireCredentialsHandle(CredentialUse credUsage, SecureCredential2& secureCredential)
+   在 System.Net.Security.SecureChannel.AcquireCredentialsHandle(CredentialUse credUsage, X509Certificate2 selectedCert, Flags flags)
+   在 System.Net.Security.SecureChannel.AcquireClientCredentials(Byte[]& thumbPrint)
+   在 System.Net.Security.SecureChannel.GenerateToken(Byte[] input, Int32 offset, Int32 count, Byte[]& output)
+   在 System.Net.Security.SecureChannel.NextMessage(Byte[] incoming, Int32 offset, Int32 count)
+   在 System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Net.TlsStream.CallProcessAuthentication(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.TlsStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.PooledStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com...
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.2.windows.1'
+Locating current repository...Git repository at 'C:/Users/kk/OneDrive/Desktop/trajectory planning/RL code/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:F:/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:F:/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:F:/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:F:/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:F:/Git/etc/gitconfig	filter.lfs.required=true
+file:F:/Git/etc/gitconfig	http.sslbackend=schannel
+file:F:/Git/etc/gitconfig	core.autocrlf=true
+file:F:/Git/etc/gitconfig	core.fscache=true
+file:F:/Git/etc/gitconfig	core.symlinks=false
+file:F:/Git/etc/gitconfig	pull.rebase=false
+file:F:/Git/etc/gitconfig	credential.helper=manager
+file:F:/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:F:/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/kk/.gitconfig	credential.https://gitcode.com.provider=generic
+file:C:/Users/kk/.gitconfig	user.name=kkisok
+file:C:/Users/kk/.gitconfig	user.email=kkisok0123@gmail.com
+file:C:/Users/kk/.gitconfig	http.proxy=http://127.0.0.1:7897
+file:C:/Users/kk/.gitconfig	https.proxy=http://127.0.0.1:7897
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	core.sshcommand=C:/Windows/System32/OpenSSH/ssh.exe
+file:.git/config	remote.origin.url=https://github.com/kkisok0123/RL-code.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.main.vscode-merge-base=origin/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
